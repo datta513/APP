@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.ite {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px;
+}
+.borderst {
+  border-style: solid;
+  border-top: 0;
+  border-left: 0ch;
+  border-right: 0;
+}
+.cast {
+  background-color: blueviolet;
+}

@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.main {
+  background-image: linear-gradient(#fff1eb, #ace0f9, #7b8794);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  flex-wrap: wrap;
+  background-size: auto;
+}
+input {
+  width: 60vw;
+  height: 50px;
+  border-style: none;
+}
+img {
+  height: 50px;
+}
+.search {
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-width: 0.1ch;
+}
+.tabitem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.Appitem {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
